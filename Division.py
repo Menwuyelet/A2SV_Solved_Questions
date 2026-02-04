@@ -1,0 +1,8 @@
+"""Takes two intiger inputs and prints their intiger division and float division."""
+
+if __name__ == "__main__":
+    a = int(input())
+    b = int(input())
+
+    print(a // b)
+    print(a / b)
