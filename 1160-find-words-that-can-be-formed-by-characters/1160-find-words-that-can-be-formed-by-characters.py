@@ -1,3 +1,15 @@
+"""
+- The question: given list of words and a string, we are tasked to find the total sum of length of the words from the given list that are formed from the chars that are present in the given string.
+              - the number of apperance of a charachter in word must not exceed the number of apperance in the chars string.
+- Solution:
+    - we can store the chars from the chars string and iterate through the words list and compare the count of charachters inside a word againist 
+    - the chars count and if one of the chars in word have greater count that the chars count we add nothing else we add len(word) to ans
+    - at the end of the outer iteration we return ans.
+-  Time and Space complexity:
+    - Time = using sort: O(c+n*m) = O(100+100⋅n) ≈ O(100⋅n), n = len(words), m = len(word), c = len(chars)
+    - space = using sort: O(c), using set: O(1)
+"""
+
 class Solution:
     def countCharacters(self, words: List[str], chars: str) -> int:
         from collections import Counter
@@ -5,21 +17,13 @@ class Solution:
         ans = 0
         for word in words:
             word_count = Counter(word)
-            l = 0
+            word_len = len(word)
+
             for chrs in word:
                 if word_count[chrs] > chars_count.get(chrs, 0):
-                    l = 0
+                    word_len = 0
                     break
-                l = len(word)
-            ans+=l 
+        
+            ans+=word_len
             
         return ans
-
-
-        #         count_a = Counter(a)
-        # count_b = Counter(b)
-
-        # for x in count_b:
-        #     if count_b[x] > count_a.get(x, 0):
-        #         return False
-        # return True
