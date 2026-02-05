@@ -10,10 +10,25 @@
 
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        count = {"two": []}
-        for num in nums:
-            count[num] = count.get(num, 0) + 1
-            if count[num] > 1:
-                count["two"].append(num)
-                count.pop(num)
-        return count["two"]
+        return use_sign(nums)
+
+
+
+# using dictionary O(n) time and O(n) space
+# def use_dict(nums):
+#     count = {"two": []}
+#     for num in nums:
+#         count[num] = count.get(num, 0) + 1
+#         if count[num] > 1:
+#             count["two"].append(num)
+#             count.pop(num)
+#     return count["two"]
+
+def use_sign(nums):
+    ans = []
+    for x in nums:
+        index = abs(x) - 1
+        if nums[index] < 0:
+            ans.append(abs(x))
+        nums[index] = -nums[index]
+    return ans
