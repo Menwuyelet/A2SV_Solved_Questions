@@ -7,10 +7,11 @@ class Solution:
             # print(splited_path[0])
 
             for sppath in splited_path[1:]:
-                path_counter[sppath[1:]].append(splited_path[0]+"/"+sppath[0]+".txt")
-                if len(path_counter[sppath[1:]]) > 1:
-                    key.add(sppath[1:])
-                # print(path_counter[sppath[1:]])
+                split_point = sppath.split("(")
+                path_counter[split_point[1]].append(splited_path[0]+"/"+split_point[0])
+                if len(path_counter[split_point[1]]) > 1:
+                    key.add(split_point[1])
+                # print(key)
         ans = []
         for path in key:
             ans.append(path_counter[path])
