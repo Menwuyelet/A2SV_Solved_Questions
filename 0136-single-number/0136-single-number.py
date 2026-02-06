@@ -10,9 +10,10 @@
     - Time =  Sorting: O(n log n), XOR: O(n)
     - space = Sorting: O(1), XOR: O(1)
 """
+
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        return use_sort(nums)
+        return use_XOR(nums)
 
 
 def use_sort(nums):
@@ -23,4 +24,10 @@ def use_sort(nums):
             return nums[i]
         i += 2
     return nums[-1]
-# def use 
+
+
+def use_XOR(nums):
+    ans = 0
+    for num in nums:
+        ans = ans ^ num
+    return ans
