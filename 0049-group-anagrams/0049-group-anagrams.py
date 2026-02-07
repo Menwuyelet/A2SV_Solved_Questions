@@ -6,8 +6,8 @@
     - this way words that are anagram will be grouped together.
     - at the end of the loop we just return the dictionary values casted to list.
 -  Time and Space complexity:
-    - Time =  both techniques  O(n*k log k), n = len(strs), k = len(words in strs)
-    - space = using dict: O(n*k)
+    - Time = O(n*k log k), n = len(strs), k = len(words in strs)
+    - space = O(n*k)
 """
 
 class Solution:
