@@ -8,7 +8,7 @@ class DataStream:
         self.data = set()
 
     def consec(self, num: int) -> bool:
-        if len(self.list) == self.k:
+        if len(self.list) >= self.k:
             val = self.list.popleft()
             if self.list_count[val] == 1:
                 self.data.remove(val)
@@ -19,7 +19,7 @@ class DataStream:
         self.list_count[num] += 1
         if self.k > len(self.list):
             return False
-        return len(self.data) == 1
+        return len(self.data) == 1 and self.value in self.data
 
 
 
