@@ -6,8 +6,8 @@
     - if so we add it to our ans list else we continue.
     - after the loop ended we return the ans list.
 -  Time and Space complexity:
-    - Time = using sort: O(n), n = len(nums)
-    - space = using sort: O(n), n = len(nume), this is because the ans list will only contain at most 2 elements.
+    - Time = O(n), n = len(nums)
+    - space = O(n), n = len(nume), this is because the ans list will only contain at most 2 elements.
 """
 
 class Solution:
