@@ -5,7 +5,7 @@
     - we can use counter to count and store the frequency of the chrs in the string and iterate through them to find the first element.
 -  Time and Space complexity:
     - Time =  Sorting: O(n)
-    - space = Sorting: N(n)
+    - space = Sorting: O(n)
 """
 
 class Solution:
