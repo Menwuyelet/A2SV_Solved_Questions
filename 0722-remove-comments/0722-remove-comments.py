@@ -12,8 +12,8 @@
     - after completing traversing one line we check if we have code lines in our temp variable and if so we append it to our ans.
     - after going throug all the lines we return the ans containing our conde lines.
 -  Time and Space complexity:
-    - Time = O(n * m), n = len(row), len(column), but since n, m <= 10 we can say O(100) = O(1)
-    - space = O(n * m), but since n, m <= 10 we can say O(100) = O(1)
+    - Time = O(n * m), n = len(source), m = len(line)
+    - space = O(n * m)
 """
 
 class Solution:
