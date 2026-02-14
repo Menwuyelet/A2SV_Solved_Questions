@@ -1,12 +1,19 @@
-class Solution:
-    def findRotation(self, mat: List[List[int]], target: List[List[int]]) -> bool:
-        target_set = set()
-        mat_set = set()
-        for row in target:
-            target_set.add((row[0], row[-1]))
-        
-        for row in mat:
-            mat_set.add((row[0], row[-1]))
-            
-        # print(target_set, mat_set)
-        return target_set == mat_set
+
+class Solution(object):
+    def findRotation(self, mat, target):
+        len_mat = len(mat)
+        len_row= len(mat[0])
+
+        for _ in range(4):
+
+            for i in range(len_mat):
+                for j in range(i, len_row):
+                    mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
+
+            for row in mat:
+                row.reverse()
+
+            if mat == target:
+                return True
+
+        return False
