@@ -1,8 +1,8 @@
 import sys
 input = sys.stdin.readline
 
-t = int(input())
-for _ in range(t):
+
+for _ in range(int(input()):
     n, x, k = map(int, input().split())
     s = input().strip()
     
