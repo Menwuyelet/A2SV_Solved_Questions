@@ -21,5 +21,6 @@ for i in range(n):
     if contests[i] >= idx:
         ans += 1
         idx += 1
+        
     
 print(ans)
