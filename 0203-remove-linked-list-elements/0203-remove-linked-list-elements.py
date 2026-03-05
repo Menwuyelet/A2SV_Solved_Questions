@@ -11,7 +11,7 @@ class Solution:
         while curr.next:
             if curr.next.val == val:
                 new_next = curr.next.next
-                curr.next.next = None
+                # curr.next.next = None
                 curr.next = new_next
             else:
                 curr = curr.next
