@@ -1,3 +1,25 @@
+"""
+- The question: we are given a string of lower case english letters and a list of queries to perform on them.
+               - there are two types of queries, forward shifting and backward shifting depending on the given value.
+               - we perform one of the queries on the range of letters in the s specified by the left and right pointers given withe the queries.
+- Solution:
+    - this seems a circular shifting problem.
+    - but we can solve it using prefix sum(1D ragne update prefix sum).
+    - we first initialize a list with the length len(s) + 1 with initial values of 0
+    - after that we add the queries to that list by adding 1 or -1 to the starting index and subtracting 1 or -1 to the index next to the ending one.
+    - we add 1 or -1 because there are only two types of queries forward shifting and backward shifting.
+    - we add to the starting to mark the ending and we subtract to mark the ending of that specific query.
+    - after that we produce the prefix sum of the obtaind list.
+    - after that we generate a list of the chrs asci value in the given string s.
+    - then we add the generated prefix list and the asci value list index by index.
+    - to fix offset we use 26 as correcting value.
+    - then we append the chr equivalent of the obtaind value for each index after the last step.
+    - then we join the chrs and return them.
+
+-  Time and Space complexity:
+    - Time = O(n), n = max(len(s), len(shifts))
+    - space = O(m), m = len(s)
+"""
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
         pre_sum = [0] * (len(s)+1)
@@ -35,7 +57,7 @@ class Solution:
             # we use 26 as offseting since asci value beyond 122 and below 97 are not alphabetical chr and we can correct it by adding 26 or subtracting 26
             while ords[idx] > 122:
                 ords[idx] -= 26
-                
+
             while ords[idx] < 97:
                 ords[idx] += 26
 
