@@ -27,6 +27,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0707-design-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
