@@ -7,6 +7,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -22,6 +24,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
