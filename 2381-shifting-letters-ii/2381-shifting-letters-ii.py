@@ -17,8 +17,8 @@
     - then we join the chrs and return them.
 
 -  Time and Space complexity:
-    - Time = O(n), n = max(len(s), len(shifts))
-    - space = O(m), m = len(s)
+    - Time = O(n + m), n = len(s), m = len(shifts)
+    - space = O(n), m = len(s)
 """
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
@@ -55,11 +55,10 @@ class Solution:
             ords[idx] += pre_sum[idx]
 
             # we use 26 as offseting since asci value beyond 122 and below 97 are not alphabetical chr and we can correct it by adding 26 or subtracting 26
-            while ords[idx] > 122:
-                ords[idx] -= 26
-
-            while ords[idx] < 97:
-                ords[idx] += 26
+            if ords[idx] > 122:
+                ords[idx] = 97 + (ords[idx] - 97) % 26
+            elif ords[idx] < 97:
+                ords[idx] = 97 + (ords[idx] - 97) % 26
 
             ans.append(chr(ords[idx]))
         
