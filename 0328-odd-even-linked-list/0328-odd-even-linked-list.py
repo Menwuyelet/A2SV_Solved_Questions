@@ -1,3 +1,18 @@
+"""
+- The question: we are given a linked list and tasked to to partition it in tow parts. the first one contains elements of the nodes with odd indices and the second one contains the even indices node values. and we are tasked to do the partitioning in O(1) extra space
+- Solution:
+    - this problem is same with another leetcode problem the only diffrent is the partitioning criteria and the constraint of using O(1) space.
+    - we could solve it with O(n) space with the same approach as the other problem but since this requires O(1) we change our approach.
+    - we use three variables odd, even and even_head to trak our current node for both even and odd indices and to store the head of the even ones for later use.
+    - we iterate through the linked list and we assign odd.next the even.next and we set the odd tracker to the new end of odd
+    - after that we set the even.next to odd.next and again we set the even to current even end.
+    - after we finish this we assign the odd.next to the head of the even to link the two lists and return the head.
+    - this solve it with O(1) extra space.
+-  Time and Space complexity:
+    - Time = O(n), n = length of the given linked list
+    - space = O(1), 
+"""
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -5,29 +20,22 @@
 #         self.next = next
 class Solution:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        even_list = ListNode(0)
-        odd_list = ListNode(0)
+        # if the linked list is empty or only have one node we return simply the head
+        if not head or not head.next:
+            return head
 
-        curr_even = even_list
-        curr_odd = odd_list
+        odd = head
+        even = head.next
+        even_head = even
 
-        curr = head
-        idx = 1
-        while curr:
-            # if our current index is even we add the current node at the even list
-            if idx % 2 == 0:
-                curr_even.next = curr
-                curr_even = curr_even.next
-            
-            # if our current index is odd we add the current node at the odd list
-            else:
-                curr_odd.next = curr
-                curr_odd = curr_odd.next
-            idx += 1
-            curr = curr.next
-        
-        # we set the last of the even_list to none to avoid pointing to the old values of the last node pointing to   
-        curr_even.next = None
-        curr_odd.next = even_list.next
+        while even and even.next:
+            odd.next = even.next
+            odd = odd.next
 
-        return odd_list.next
+            even.next = odd.next
+            even = even.next
+
+        # we set the end of odd node point to the head of the start of the even nodes
+        odd.next = even_head
+
+        return head
