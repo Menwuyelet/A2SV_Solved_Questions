@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 ## Sliding Window
@@ -99,5 +100,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
