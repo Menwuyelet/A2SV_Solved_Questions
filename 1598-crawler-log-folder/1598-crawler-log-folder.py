@@ -4,7 +4,10 @@ class Solution:
 
         for chr in logs:
             if chr == "../" or chr == "./":
-                if stack and chr =="../":
+                if chr == "./":
+                    continue
+                    
+                if stack:
                     stack.pop()
 
             else:
