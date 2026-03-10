@@ -30,11 +30,13 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Hash Table
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
 | ------- |
@@ -122,8 +124,14 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Counting
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
