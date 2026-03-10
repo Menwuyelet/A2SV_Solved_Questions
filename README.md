@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## String
@@ -114,6 +116,7 @@
 | [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [1598-crawler-log-folder](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
