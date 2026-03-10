@@ -29,6 +29,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
