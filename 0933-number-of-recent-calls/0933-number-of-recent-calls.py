@@ -9,8 +9,8 @@
     - else we pop from our qeue until we meet that condition.
 
 -  Time and Space complexity:
-    - Time = O(1), since we use qeue
-    - space = O(m), m = the maximum number of calls in the range of 3000ms
+    - Time = O(1), amortized
+    - space = O(1), bounded by 3000 timestamps
 """
 
 class RecentCounter:
