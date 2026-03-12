@@ -47,6 +47,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2381-shifting-letters-ii](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -83,6 +84,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
