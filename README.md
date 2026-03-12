@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -144,4 +145,16 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
