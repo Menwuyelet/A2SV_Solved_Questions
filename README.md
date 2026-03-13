@@ -99,10 +99,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -178,4 +180,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
