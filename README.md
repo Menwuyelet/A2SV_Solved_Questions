@@ -15,6 +15,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -106,6 +107,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0994-rotting-oranges](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
