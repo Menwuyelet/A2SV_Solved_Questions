@@ -9,7 +9,7 @@
     - after we count in that way we return the ans.
 -  Time and Space complexity:
     - Time = O(n), n = len(nums)
-    - space = O(n)
+    - space = O(k), due to mathimatical limit of only k amount of reminders can exist.
 """
 
 class Solution:
