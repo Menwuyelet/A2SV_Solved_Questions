@@ -14,7 +14,7 @@
     - fo the above example: "(())" our stack would be first iteration : [0], second : [0, 0], third : [0, 1], fourth : [2]
     - after we finish the iteration we return the sum of our stack.
 -  Time and Space complexity:
-    - Time = O(n), n = len(nums)
+    - Time = O(n), n = len(s)
     - space = O(n), 
 """
 class Solution:
