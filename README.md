@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
@@ -170,6 +172,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
 |  |
