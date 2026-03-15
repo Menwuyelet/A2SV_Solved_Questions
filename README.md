@@ -58,6 +58,7 @@
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2381-shifting-letters-ii](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -132,6 +133,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -143,12 +145,14 @@
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
