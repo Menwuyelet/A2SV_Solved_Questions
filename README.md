@@ -17,6 +17,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -65,6 +66,7 @@
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Dynamic Programming
 |  |
@@ -149,6 +151,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -180,10 +183,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
 | ------- |
@@ -194,4 +199,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
