@@ -6,7 +6,7 @@
     - but when we find oprator as our element we pop two elements from our stack and perform the opration and append the result back to our stack.
     - the one thing is in division we truncate towards zero. so we wont get fractional values.
 -  Time and Space complexity:
-    - Time = O(n), n = len(nums)
+    - Time = O(n), n = len(tokens)
     - space = O(n), 
 """
 class Solution:
