@@ -97,6 +97,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
 |  |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
