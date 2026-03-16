@@ -14,6 +14,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
@@ -138,6 +139,7 @@
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 ## Stack
 |  |
 | ------- |
@@ -188,10 +190,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
+| [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
