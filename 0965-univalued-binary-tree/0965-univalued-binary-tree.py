@@ -8,9 +8,6 @@ class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
         que = deque()
 
-        if not root:
-            return True
-
         que.append(root)
 
         while que:
@@ -19,11 +16,9 @@ class Solution:
                 return False
 
             if node.left:
-
                 que.append(node.left)
-
             if node.right:
-
                 que.append(node.right)
 
+        
         return True
