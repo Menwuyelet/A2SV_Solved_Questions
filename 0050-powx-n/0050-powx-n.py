@@ -9,8 +9,6 @@ class Solution:
         if n == 0:
             return 1
 
-        if n <= 1:
-            return x
 
         half = self.base(x, n // 2)
         
