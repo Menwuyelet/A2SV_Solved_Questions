@@ -14,8 +14,8 @@
     - our base case is if n == 0 we return 1.
     - and thats it.
 -  Time and Space complexity:
-    - Time = O(n), n = len(nums)
-    - space = O(n), 
+    - Time = O(log n), n = len(nums)
+    - space = O(log n), 
 """
 class Solution:
     def myPow(self, x: float, n: int) -> float:
