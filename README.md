@@ -104,6 +104,7 @@
 | [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1922-count-good-numbers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
