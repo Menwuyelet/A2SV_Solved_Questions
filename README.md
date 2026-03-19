@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -96,12 +97,14 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +112,9 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -135,6 +141,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
@@ -145,6 +152,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0394-decode-string) |
@@ -183,10 +193,12 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1922-count-good-numbers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -210,12 +222,18 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 ## Ordered Set
 |  |
@@ -229,4 +247,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
