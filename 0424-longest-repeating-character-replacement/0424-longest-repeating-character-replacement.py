@@ -6,7 +6,7 @@
     - then check if the current window is maximum or not. 
     - we iterate until we reach the end of the string s.
 -  Time and Space complexity:
-    - Time => O(n), n = max(len(num1), max(num(2)))
+    - Time => O(n), n = len(s)
     - space = O(n)
 """
 
