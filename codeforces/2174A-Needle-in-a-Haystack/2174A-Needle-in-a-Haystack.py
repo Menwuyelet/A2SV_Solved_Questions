@@ -1,3 +1,18 @@
+"""
+- The question: given two strings s and t, we need to determine if we can rearrange the characters of t to form a new string t' 
+                - such that it is lexicographically smaller than other possible arrangements of t and also contains s as a subsequence.
+                - if it is possible, we return the lexicographically smallest arrangement of t else we return "Impossible"
+- Solution:
+    - since we need to check if s can be a subsequence of t, we first count the frequency of characters in both s and t and compare.
+    - if the frequency of any character in s is greater than its frequency in t, then it is impossible to form t' and we return "Impossible"
+    - if it is possible, we build t' by taking the characters in t that are not in s and sort them.
+    - finally, we merge s and the sorted t' to get the lexicographically smallest result by comparing characters from both strings and appending the smaller one to the result.
+    - if equal we take character form s.
+-  Time and Space complexity:
+    - Time => O(m log(m)), since we are sorting m = len(t) - len(s)
+    - space = O(m)
+"""
+
 from collections import Counter
 
 for _ in range(int(input())):
