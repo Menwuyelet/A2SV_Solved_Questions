@@ -1,3 +1,15 @@
+"""
+- The question: given a string and number of oprations we are tasked to create the longest substring with a repeating charachters.
+                - to create that we can choose any charachter to any other charachter as long as we dont do it more times than the given k.
+- Solution:
+    - we just need to count the number of characters in a the window we have and try to change the chrachters with the smallest count to the charachter with the more count.
+    - then check if the current window is maximum or not. 
+    - we iterate until we reach the end of the string s.
+-  Time and Space complexity:
+    - Time => O(n), n = len(s)
+    - space = O(n)
+"""
+
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         count = defaultdict(int)
