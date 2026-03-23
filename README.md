@@ -214,11 +214,13 @@
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Greedy
 |  |
 | ------- |
 | [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Sorting
 |  |
 | ------- |
