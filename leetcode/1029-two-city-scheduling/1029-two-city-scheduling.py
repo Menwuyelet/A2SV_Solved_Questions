@@ -10,8 +10,8 @@
     - if we are not yet to reach or cross we add that person to go to city a, else to city b
     - and that is it we add the costs accordingly and that cost is the minimal posible.
 -  Time and Space complexity:
-    - Time = O(log n), n = len(nums)
-    - space = O(log n), 
+    - Time = O(n log n), n = len(costs) due to the sorting
+    - space = O(n log n), 
 """
 
 class Solution:
