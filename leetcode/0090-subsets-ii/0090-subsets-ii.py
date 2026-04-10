@@ -15,7 +15,7 @@ class Solution:
         # we use set to remove duplicates
         ans = set()
 
-        def backtrack(num, curr):
+        def backtrack(start, curr):
             
             # we convert the curr list to tuple to allow it to be stored in set
             ans.add(tuple(curr[:]))
@@ -24,14 +24,14 @@ class Solution:
                 return 
 
 
-            for i in range(len(num)):
+            for i in range(start, len(nums)):
                 # we append the current num and calls our backtracking updating our num moving to right 1 posision
-                curr.append(num[i])
-                backtrack(num[i+1:], curr)
+                curr.append(nums[i])
+                backtrack(i+1, curr)
 
                 # we pop from our curr to get other subsets
                 curr.pop()
 
         nums.sort()
-        backtrack(nums, [])
+        backtrack(0, [])
         return list(ans)
