@@ -6,15 +6,15 @@
     - we append these curr lists to our answer list, our base case is when the curr length become equal to the len of nums(the original list become the subset)
     - when we hit that we return and chekc the next subset starting on the next value
 -  Time and Space complexity:
-    - Time = O(n*n), n = len(nums)
-    - space = O(n), 
+    - Time = O(2^n * n^2), n = len(nums)
+    - space = O(n*2^n), 
 """
 
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         ans = []
 
-        def backtrack(num, curr):
+        def backtrack(start, curr):
             
             # we append the current list to our answer
             ans.append(curr[:])
@@ -24,14 +24,14 @@ class Solution:
                 return
 
             # we iterate over the original list and construct the subset list
-            for i in range(len(num)):
+            for i in range(start, len(nums)):
                 # we append the current num and calls our backtracking updating our num moving to right 1 posision
-                curr.append(num[i])
-                backtrack(num[i+1:], curr)
+                curr.append(nums[i])
+                backtrack(i+1, curr)
 
                 # we pop from our curr to get other subsets
                 curr.pop()
             
         
-        backtrack(nums, [])
+        backtrack(0, [])
         return ans
