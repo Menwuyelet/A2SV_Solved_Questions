@@ -17,10 +17,15 @@ class Solution:
         chrs = ['a', 'b', 'c']
 
         def backtrack(curr):
+
+            # we use nonlocal decleration to access the global i in the recursive call
             nonlocal i
+
+            # we break early after we hit our target
             if i > k:
                 return 
             
+            # we add the permituation to our mapping when it hits the lenght specified
             if len(curr) == n:
                 # print(maping)
                 maping[i] = curr[:]
@@ -28,6 +33,8 @@ class Solution:
                 return
             
             for chr in chrs:
+
+                # we call our backtracking if our last element and current element are not the same
                 if (curr and chr != curr[-1]) or not curr:
                     curr.append(chr)
 
@@ -35,4 +42,5 @@ class Solution:
                     curr.pop()
             
         backtrack([])
+        
         return "".join(maping[k]) if k in maping else ""
