@@ -1,35 +1,43 @@
-<h2><a href="https://leetcode.com/problems/powx-n">50. Pow(x, n)</a></h2><h3>Medium</h3><hr><p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(x, n)</a>, which calculates <code>x</code> raised to the power <code>n</code> (i.e., <code>x<sup>n</sup></code>).</p>
+# 50. Powx-n
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+**Difficulty:** Medium
 
-<pre>
-<strong>Input:</strong> x = 2.00000, n = 10
-<strong>Output:</strong> 1024.00000
-</pre>
+**Problem:** [Powx-n](https://leetcode.com/problems/powx-n)
 
-<p><strong class="example">Example 2:</strong></p>
+---
 
-<pre>
-<strong>Input:</strong> x = 2.10000, n = 3
-<strong>Output:</strong> 9.26100
-</pre>
+Implement pow(x, n) , which calculates `x` raised to the power `n` (i.e., `xn`).
 
-<p><strong class="example">Example 3:</strong></p>
+Example 1:
 
-<pre>
-<strong>Input:</strong> x = 2.00000, n = -2
-<strong>Output:</strong> 0.25000
-<strong>Explanation:</strong> 2<sup>-2</sup> = 1/2<sup>2</sup> = 1/4 = 0.25
-</pre>
+```
+Input:  x = 2.00000, n = 10
+Output:  1024.00000
+```
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 2:
 
-<ul>
-	<li><code>-100.0 &lt; x &lt; 100.0</code></li>
-	<li><code>-2<sup>31</sup> &lt;= n &lt;= 2<sup>31</sup>-1</code></li>
-	<li><code>n</code> is an integer.</li>
-	<li>Either <code>x</code> is not zero or <code>n &gt; 0</code>.</li>
-	<li><code>-10<sup>4</sup> &lt;= x<sup>n</sup> &lt;= 10<sup>4</sup></code></li>
-</ul>
+```
+Input:  x = 2.10000, n = 3
+Output:  9.26100
+```
+
+Example 3:
+
+```
+Input:  x = 2.00000, n = -2
+Output:  0.25000
+Explanation:  2 -2  = 1/2 2  = 1/4 = 0.25
+```
+
+**Constraints:**
+
+- `-100.0 < x < 100.0`
+
+- `-2³1 <= n <= 2³1-1`
+
+- `n` is an integer.
+
+- Either `x` is not zero or `n > 0`.
+
+- `-10⁴ <= xn <= 10⁴`

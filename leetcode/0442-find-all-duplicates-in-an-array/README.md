@@ -1,24 +1,42 @@
-<h2><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array">442. Find All Duplicates in an Array</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code> where all the integers of <code>nums</code> are in the range <code>[1, n]</code> and each integer appears <strong>at most</strong> <strong>twice</strong>, return <em>an array of all the integers that appears <strong>twice</strong></em>.</p>
+# 442. Find-All-Duplicates-in-an-Array
 
-<p>You must write an algorithm that runs in <code>O(n)</code> time and uses only <em>constant</em> auxiliary space, excluding the space needed to store the output</p>
+**Difficulty:** Medium
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> nums = [4,3,2,7,8,2,3,1]
-<strong>Output:</strong> [2,3]
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> nums = [1,1,2]
-<strong>Output:</strong> [1]
-</pre><p><strong class="example">Example 3:</strong></p>
-<pre><strong>Input:</strong> nums = [1]
-<strong>Output:</strong> []
-</pre>
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+**Problem:** [Find-All-Duplicates-in-an-Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 
-<ul>
-	<li><code>n == nums.length</code></li>
-	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= nums[i] &lt;= n</code></li>
-	<li>Each element in <code>nums</code> appears <strong>once</strong> or <strong>twice</strong>.</li>
-</ul>
+---
+
+Given an integer array `nums` of length `n` where all the integers of `nums` are in the range `[1, n]` and each integer appears **at most** **twice**, return an array of all the integers that appears **twice** .
+
+You must write an algorithm that runs in `O(n)` time and uses only constant auxiliary space, excluding the space needed to store the output
+
+Example 1:
+
+```
+Input:  nums = [4,3,2,7,8,2,3,1]
+Output:  [2,3]
+```
+
+Example 2:
+
+```
+Input:  nums = [1,1,2]
+Output:  [1]
+```
+
+Example 3:
+
+```
+Input:  nums = [1]
+Output:  []
+```
+
+**Constraints:**
+
+- `n == nums.length`
+
+- `1 <= n <= 10⁵`
+
+- `1 <= nums[i] <= n`
+
+- Each element in `nums` appears **once** or **twice**.

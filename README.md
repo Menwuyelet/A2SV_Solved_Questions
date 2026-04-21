@@ -7,16 +7,19 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0238-product-of-array-except-self](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -28,8 +31,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -49,9 +54,11 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
@@ -72,6 +79,7 @@
 | [0239-sliding-window-maximum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Dynamic Programming
@@ -188,6 +196,7 @@
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
@@ -201,14 +210,17 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Greedy
 |  |
 | ------- |
 | [0969-pancake-sorting](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Menwuyelet/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Sorting
 |  |
 | ------- |
