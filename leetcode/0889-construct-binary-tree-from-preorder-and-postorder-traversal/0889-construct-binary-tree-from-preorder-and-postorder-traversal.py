@@ -17,7 +17,6 @@ class Solution:
             if preL == preR:
                 return root
             
-            # next element in preorder is left child
             left_root_val = preorder[preL + 1]
             idx = post_map[left_root_val]
             
