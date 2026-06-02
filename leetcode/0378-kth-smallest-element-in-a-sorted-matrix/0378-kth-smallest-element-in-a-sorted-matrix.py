@@ -8,7 +8,7 @@
     - the n smallest calls that generator until it finishs the matrix length and create a list of k smallest elements form that generator. after that we take the last element from that created list.
     - and that is it.
 -  Time and Space complexity:
-    - Time = O(n² * log(n²)) - first solution, O(n^2 * log(k^2)) - second solution 
+    - Time = O(n² * log(n²)) - first solution, O(n^2 * log(k)) - second solution 
     - space = O(n^2) - first solution, O(k) - second solution 
 """
 
