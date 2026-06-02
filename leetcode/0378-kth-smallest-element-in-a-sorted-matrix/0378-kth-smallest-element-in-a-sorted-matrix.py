@@ -8,17 +8,14 @@
     - the n smallest calls that generator until it finishs the matrix length and create a list of k smallest elements form that generator. after that we take the last element from that created list.
     - and that is it.
 -  Time and Space complexity:
-    - Time = O(n log n), n = len(stones)
-    - space = 1, 
+    - Time = O(n² * log(n²)) - first solution, O(n^2 * log(k^2)) - second solution 
+    - space = O(n^2) - first solution, O(k) - second solution 
 """
 
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
-        
 
-
-
-        return bruteForce(matrix, k)
+        return optimized(matrix, k)
 
 # first solution completly flatning the entire matrix to 1d array and sorting to find the kth smallest element
 def bruteForce(matrix, k):
