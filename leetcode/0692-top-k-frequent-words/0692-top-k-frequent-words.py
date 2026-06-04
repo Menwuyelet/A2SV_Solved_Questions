@@ -19,11 +19,9 @@ class Solution:
         for word in freq:
             words.append((freq[word], word))
         
-        # return the nsmallest tupls
-        ans = nsmallest(k, words, key=lambda x: (-x[0], x[1]))
+        # return the nsmallest tupls and unpack it to get the word only
+        ans = [word for _, word in nsmallest(k, words, key=lambda x: (-x[0], x[1]))]
 
-        # we unpack the tuple to return only the word
-        for i in range(len(ans)):
-            ans[i] = ans[i][1]
+        
         
         return ans
