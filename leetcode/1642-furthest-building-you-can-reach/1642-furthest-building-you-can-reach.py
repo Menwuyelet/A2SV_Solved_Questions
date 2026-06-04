@@ -7,8 +7,8 @@
     - to implement that we use min heap and start with all the climbs as using laders and as we go we check if the current climb is biggest so far we see or we are out of bricks if so we use laders else bricks.
     - we stop when we are out of bricks that means we already used all the laders and bricks and the curren building is the furthest we can go.
 -  Time and Space complexity:
-    - Time = O(n log n), n = len(stones)
-    - space = 1, 
+    - Time = O(n log m), m = ladders, n = len(bricks)
+    - space = O(n), 
 """
 
 class Solution:
