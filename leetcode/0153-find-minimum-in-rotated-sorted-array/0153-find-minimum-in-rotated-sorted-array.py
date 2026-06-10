@@ -10,7 +10,7 @@
     - Time = O(log n), n = len(nums)
     - space = O(1), 
 """
-[3,4,5,1,2]
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         left, right = 0, len(nums) - 1
