@@ -1,8 +1,7 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         curr = sum(nums[:k])
-        ans = curr/k
-
+        ans = curr
         left = 0
         right = k
         while right < len(nums):
@@ -12,6 +11,6 @@ class Solution:
             left += 1
             right += 1
 
-            ans = max(ans, curr/k)
+            ans = max(ans, curr)
         
-        return ans
+        return ans/k
