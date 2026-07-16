@@ -29,7 +29,7 @@ class Solution:
         while curr.next:
             if curr.next.val == val:
                 curr.next = curr.next.next
-            # print(curr)
+            
             else:
                 curr = curr.next
         
