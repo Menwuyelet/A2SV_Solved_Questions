@@ -35,6 +35,6 @@ Output:  1
 
 **Constraints:**
 
-- `3 <= s.length <= 5 x 10^4`
+- `3 <= s.length <= 5 x 10⁴`
 
-- `s` only consists of a , b or c characters.
+- `s` only consists of `'a'`, `'b'` or `'c'` characters.
