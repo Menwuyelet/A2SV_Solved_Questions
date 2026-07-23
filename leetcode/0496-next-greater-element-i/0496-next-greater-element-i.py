@@ -5,7 +5,7 @@
     - after that we iterate through list1 and use the elements in list1 as key to find the next greater number for that number in list two.
     - to construct the dictinary we could use monotonically deacreasing stack.
     - when we find a number that is greater than the number on the top or our stack we pop that number and use it as key to store the larger number that is the next greater number for the number on the top of the stack.
-    - after we finish the all numbers on list2 and if ther are numbers on the stack we set their next greater element to -1 as ther is none.
+    - after we finish all the numbers on list2 and if there are numbers on the stack we set their next greater element to -1 as ther is none.
     - after that we construct the answear list using the list1 elements as key.
 -  Time and Space complexity:
     - Time = O(n), n = len(nums)
@@ -32,4 +32,5 @@ class Solution:
         ans = []
         for num in nums1:
             ans.append(count[num])
+            
         return ans
