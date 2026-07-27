@@ -1,37 +1,47 @@
-<h2><a href="https://leetcode.com/problems/set-matrix-zeroes">73. Set Matrix Zeroes</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> integer matrix <code>matrix</code>, if an element is <code>0</code>, set its entire row and column to <code>0</code>&#39;s.</p>
+# 73. Set-Matrix-Zeroes
 
-<p>You must do it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in place</a>.</p>
+**Difficulty:** Medium
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg" style="width: 450px; height: 169px;" />
-<pre>
-<strong>Input:</strong> matrix = [[1,1,1],[1,0,1],[1,1,1]]
-<strong>Output:</strong> [[1,0,1],[0,0,0],[1,0,1]]
-</pre>
+**Problem:** [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
 
-<p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg" style="width: 450px; height: 137px;" />
-<pre>
-<strong>Input:</strong> matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
-<strong>Output:</strong> [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
-</pre>
+---
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Given an `m x n` integer matrix `matrix`, if an element is `0`, set its entire row and column to `0`'s.
 
-<ul>
-	<li><code>m == matrix.length</code></li>
-	<li><code>n == matrix[0].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>-2<sup>31</sup> &lt;= matrix[i][j] &lt;= 2<sup>31</sup> - 1</code></li>
-</ul>
+You must do it in place .
 
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong></p>
+Example 1:
 
-<ul>
-	<li>A straightforward solution using <code>O(mn)</code> space is probably a bad idea.</li>
-	<li>A simple improvement uses <code>O(m + n)</code> space, but still not the best solution.</li>
-	<li>Could you devise a constant space solution?</li>
-</ul>
+![](https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg)
+
+```
+Input:  matrix = [[1,1,1],[1,0,1],[1,1,1]]
+Output:  [[1,0,1],[0,0,0],[1,0,1]]
+```
+
+Example 2:
+
+![](https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg)
+
+```
+Input:  matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
+Output:  [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
+```
+
+**Constraints:**
+
+- `m == matrix.length`
+
+- `n == matrix[0].length`
+
+- `1 <= m, n <= 200`
+
+- `-2³1 <= matrix[i][j] <= 2³1 - 1`
+
+**Follow up:**
+
+- A straightforward solution using `O(mn)` space is probably a bad idea.
+
+- A simple improvement uses `O(m + n)` space, but still not the best solution.
+
+- Could you devise a constant space solution?
