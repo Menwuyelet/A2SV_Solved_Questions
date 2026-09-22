@@ -1,18 +1,15 @@
 class NumArray:
 
-    def __init__(self, nums: List[int]):
+    def __init__(self, nums: list[int]):
+        self.arry = [0]
+        # [0,-2,  0, 3, -5,  2,-1]
+        self.arry.extend(nums)
 
-        self.nums = [0]
-        self.nums.extend(nums)
+        for i in range(1, len(self.arry)):
+            self.arry[i] = self.arry[i-1] + self.arry[i]
 
-        for i in range(1, len(self.nums)):
-            # we start with 2 because we made offset by adding 0 to the bigining of the prefix sum array
-            self.nums[i] = self.nums[i - 1] + self.nums[i]
-        
     def sumRange(self, left: int, right: int) -> int:
-        # due to the offset we introduced we add 1 to the right ptr to get the right index, and leave the left as it is.
-        return self.nums[right+1] - self.nums[left]
-
+        return self.arry[right+1] - self.arry[left]
 
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
