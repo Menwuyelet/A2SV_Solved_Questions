@@ -9,14 +9,15 @@ class Solution:
         
         result = []
 
-        def postOrder(node):
-            if node:
-                
-                postOrder(node.left)
-                postOrder(node.right)
-
-                result.append(node.val)
-
-        postOrder(root)
+        postOrder(root, result)
 
         return result
+
+def postOrder(node, result):
+    if node:
+        
+        postOrder(node.left, result)
+        
+        postOrder(node.right, result)
+
+        result.append(node.val)
