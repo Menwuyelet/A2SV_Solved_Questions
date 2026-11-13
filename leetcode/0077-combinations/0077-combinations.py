@@ -1,7 +1,7 @@
 """
 - The question: we are given two integers n and k and tasked to return all the combinations of numbers from 1 to n with length of k.
 - Solution:
-    - this problem is a combination backtracking problem we could solve using recurssion(backtracking)
+    - this problem is a combination(enumration) backtracking problem we could solve using recurssion(backtracking)
     - we start with a base case of length of the current array equals to our k and we append that current array to our answer.
     - we use a for loop to add new elements starting with our starting indx up to n. we start with 0
     - 
